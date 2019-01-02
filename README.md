@@ -1,0 +1,1 @@
+# 19.memvalidasi-pembagian-agar-tidak-0
